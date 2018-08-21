@@ -1,0 +1,17 @@
+The graph used in test cases:
+
+M--N
+
+
+X--Y
+|  |
+Z--T
+
+
+   E--G--H
+   |  |
+   |  |
+A--B--F
+| /|
+|/ |
+C--D
